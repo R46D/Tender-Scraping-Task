@@ -1,0 +1,6 @@
+Libraries used:
+1. Pandas
+2. Selenium
+3. Webdriver manager
+
+*For Tender Links, restart the session on browser and the links should be working then.
